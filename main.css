@@ -11,13 +11,21 @@ body{
   border: 5px dashed red;
   margin-left: 20%;
   margin-right: 20%;
-  margin-top: 50px;
+  margin-top: 5%;
 }
 a{
   color:#BF8EFF;
 }
 @examples{
-  width: 200px;
+  width: ;
+  color: yellow;
   align: center;
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.header a{
+  border: 30px ridge white;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin: 10px, 10px, 10px, 10px;
+}
