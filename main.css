@@ -25,7 +25,4 @@ a{
 }
 .header a{
   border: 5px ridge white;
-  padding-left: 5%;
-  padding-right: 5%;
-  margin: 5px, 5px, 5px, 5px;
 }
