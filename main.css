@@ -51,6 +51,7 @@ a{
 
     .img {
         grid-area: image;
+        margin: 10%;
     }
 
     .content {
