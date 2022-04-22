@@ -24,8 +24,8 @@ a{
   margin-right: 10%;
 }
 .header a{
-  border: 30px ridge white;
-  padding-left: 20%;
-  padding-right: 20%;
-  margin: 10px, 10px, 10px, 10px;
+  border: 15px ridge white;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 5px, 5px, 5px, 5px;
 }
