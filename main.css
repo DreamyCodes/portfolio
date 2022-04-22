@@ -5,6 +5,6 @@ body{
   color: white;
   background-color: rebeccapurple;
 }
-.wip{
+@index .wip{
   background-color: red;
 }
