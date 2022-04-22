@@ -5,6 +5,9 @@ body{
   color: white;
   background-color: rebeccapurple;
 }
-.wip{
+#wip{
   background-color: red;
+}
+a{
+  color:lavender;
 }
