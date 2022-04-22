@@ -16,3 +16,8 @@ body{
 a{
   color:#BF8EFF;
 }
+@examples{
+  width: 200px;
+  align: center;
+  margin-left: 500px;
+  margin-right: 500px;
