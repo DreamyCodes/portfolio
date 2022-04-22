@@ -25,4 +25,6 @@ a{
 }
 .header a{
   border: 5px ridge white;
+  
+  margin: 5px, 20px, 5px, 20px;
 }
