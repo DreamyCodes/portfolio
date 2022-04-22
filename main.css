@@ -5,12 +5,13 @@ body{
   color: white;
   background-color: #250056;
 }
-#wip{
+.wip{
   background-color: #750007;
   text-align: center;
   border: 5px dashed red;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10px;
 }
 a{
   color:#BF8EFF;
