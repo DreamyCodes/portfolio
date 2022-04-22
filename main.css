@@ -1,7 +1,10 @@
-body {
-  background-color: rgb(208,207,255);
+html{
+  font-family: serif;
 }
-.wip {
+body{
+  color: white;
   background-color: rebeccapurple;
 }
-
+.wip{
+  background-color: red;
+}
