@@ -1,0 +1,23 @@
+<head>
+  <!DOCTYPE html>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="header"><a href="about-me">   About Me   </a>
+  <a href="work-history">   Work History   </a>
+  <a href="examples">   Examples   </a>
+  <a href="reviews">   Reviews   </a></div><br><br>
+<center><h1>camper</h1>
+Scratch Art Camp x5<br>
+Scratch PE Camp x1<br>
+Camp Forest Lake x1<br>
+December Art Camp x1<br>
+<h1>co-leader</h1>
+Scratch Exploration Camp x1<br>
+<h1>leader</h1>
+December Art Camp x1<br>
+<h1>co-host</h1>
+Arttomp<br>
+
+
+  </body>
